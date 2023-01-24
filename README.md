@@ -1,8 +1,7 @@
 I hrisi ton virtual kai hardware synthesizers stin ilektroniki
 moysiki.pdf Εκπαιδευτικό Σενάριο. ΙΕΠ ΠΡΑΞΗ 5035543. Πιλοτική Επιμόρφωση
 στα νέα προγράμματα σπουδών - Τέχνες και Πολιτισμός Μουσική
-(Γυμνάσιο).2022 https://aesop.iep.edu.gr/node/29803 ΑΝΑΓΝΩΡΙΣΤΙΚΟ ΑESOP
-- 29803
+(Γυμνάσιο).2022 https://aesop.iep.edu.gr/node/29803 ΑΝΑΓΝΩΡΙΣΤΙΚΟ ΑESOP 29803
 
 Διαδραστική εικόνα οπτικοποίησης μουσικών αποσπασμάτων 1.txt
 https://www.thinglink.com/card/1177608895661604865 Η διαδραστική εικόνα
